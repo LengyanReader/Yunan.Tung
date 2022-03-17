@@ -1,8 +1,13 @@
-@def title = "a new site "
+@def title = "Data and Life"
 @def tags = ["profession", "life"]
+@def date = Date(2019, 3, 22)
+@def last_modified=Date(locvar(:fd_mtime))
 
-# I'm Still Awake and Brave
 
- Some professional discussions and life quotes from a data scientist and life practioner. Of course, the latter is more and  most important. haha
+First pubdate:{{date}} 
+Last modified: {{fd_mtime_raw}} 
+<!-- or {{fd_mtime}} -->
 
-[standard markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# Data, Business and Life
+
+

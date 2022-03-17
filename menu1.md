@@ -1,18 +1,24 @@
 +++
-title = "yunan space"
+title = "Data Science"
 hascode = true
 date = Date(2019, 3, 22)
 
 +++
 @def tags = ["data", "code","statistics"]
 
-# Data Science and Its Like
+# Data Science and its Like
 
 \toc
 
-## Statistics
+## Theories
 
-### Frequentist and Bayesism
+### Statistics on Frequentist and Bayesism
+
+### Random Matrices
+
+#### [ On extremal eigenvalues that lays outside of the support of the spectral distribution](/vpages/theories/0111-22-update-On extremal eigenvalues that lays outside of the support of the spectral distribution_yunan.pdf/)
+
+
 
 
 ## Probabilistic Machine Learning

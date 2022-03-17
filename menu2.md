@@ -1,7 +1,7 @@
-@def title = "More goodies"
+@def title = "Fragmentary Ideas"
 @def hascode = true
 
-@def rss_pubdate = Date(2019, 5, 1)
+@def rss_pubdate = Date(2022, 3, 17)
 
 @def tags = ["syntax", "code", "image"]
 

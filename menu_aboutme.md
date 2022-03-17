@@ -1,7 +1,27 @@
 @def title = "Menu 3"
 
-# Know Me Well
+# Know Me A Little
 
+~~~
+<div class="row">
+  <div class="container">
+    <img class="right" src="/img/yunan.jpg">
+    <p>
+    Hello, there
+     </p>
+    <p>     
+    There are some professional discussions and life quotes from a data scientist and life practioner. 
+    </p>
+    <p>
+    Of course, the latter is more and  most important. 
+    </p>
+    <p>
+    Best 
+    </p>
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
 
 \toc
 
