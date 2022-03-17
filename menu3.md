@@ -4,6 +4,11 @@
 
 \toc
 
+
+## Chuangtzu Reading
+
+[See the posts](/vpages/zhuangzi/zhuangzi_index)
+
 ## Previous
 
 ### adb
