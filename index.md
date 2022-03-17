@@ -12,6 +12,14 @@ Last modified: {{fd_mtime_raw}}
 
 \toc
 
+
+
+
+## Four Great Utilities of Probalistic Machine Learning Models (2022-03-15)
+
+Kevin P. Murphy's **_Probabilistic Machine Learning: Advanced Topics_** provides a concise summary on PML-model's use: **Prediction, Generation,Discovery, Decision Making**. 
+
+---
 ## A funny guy pretending to be serious(2022-03-11)
 Date: {{fd_mtime}} 
 
