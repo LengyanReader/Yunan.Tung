@@ -7,7 +7,7 @@
 
 ## Chuangtzu Reading
 
-[See the posts](/vpages/zhuangzi/zhuangzi_index)
+[莊子三分](/vpages/zhuangzi/zhuangzi_index)
 
 ## Previous
 
