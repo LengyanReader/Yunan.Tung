@@ -10,4 +10,22 @@ Last modified: {{fd_mtime_raw}}
 
 # Data, Business and Life
 
+\toc
 
+## A funny guy pretending to be serious
+First pubdate:2022-03-11
+Date: {{fd_mtime}} 
+
+~~~
+<div class="row">
+  <div class="container">
+      <p>
+    2022 is the year having lots of to say, so wait for some days, I'll say something.
+     </p>
+    <img class="right" src="/img/mp1_01.jpg">
+
+    
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~

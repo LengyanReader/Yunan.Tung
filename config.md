@@ -17,6 +17,7 @@ generate_rss = true
 website_title = "Data, Business and Life"
 website_descr = "Profession, Reviews and Feelings"
 website_url   = "https://lengyanreader.github.io/yunan.tung/"
+rss_full_content = true
 +++
 
 
