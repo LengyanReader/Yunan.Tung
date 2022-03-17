@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: https://lengyanreader.github.io/yunan.tung/sitemap.xml
 
 User-agent: *
 Disallow:
