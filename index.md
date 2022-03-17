@@ -19,7 +19,7 @@ Date: {{fd_mtime}}
 <div class="row">
   <div class="container">
       <p>
-    2022 is the year having lots of to say, so wait for some days, I'll say something.
+    2022 is the year having lots of things to say, so wait for some days, I'll say something.
      </p>
     <img class="right" src="/img/mp1_01.jpg">
 
