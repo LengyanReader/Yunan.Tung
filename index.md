@@ -12,8 +12,7 @@ Last modified: {{fd_mtime_raw}}
 
 \toc
 
-## A funny guy pretending to be serious
-First pubdate:2022-03-11
+## A funny guy pretending to be serious(2022-03-11)
 Date: {{fd_mtime}} 
 
 ~~~
