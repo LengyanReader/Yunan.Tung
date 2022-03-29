@@ -42,8 +42,8 @@
 I have to say, the educations experienced have lost its essentail links to real world,so sad. I just make it as the chance to open some windows/perspective. In fact,what I have learned and practiced are much more and better than being taught in unversities.
 
 
-* Master program, Statistics and Machine Learning, LiU (in Sweden), 2020.8-2022.10
-* Undergraduate, Mathematics/Statistics,CUC(in China),2006.9-2010-6
+* Master program , Statistics and Machine Learning, in Sweden
+* Undergraduate, Mathematics/Statistics in China
 
 ## Working Experiences
 
