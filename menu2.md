@@ -14,7 +14,7 @@
 
 ## On Life
 
-没什么可说的，期待疫情政策早日放开吧 03-29-2022
+【03-29-2022】没什么可说的，期待疫情政策早日放开吧. Good wish on the covid-19 policy in the world.
 
 
 ## On Accademy
