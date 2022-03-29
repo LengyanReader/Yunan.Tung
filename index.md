@@ -8,6 +8,11 @@ First pubdate:{{date}}
 Last modified: {{fd_mtime_raw}} 
 <!-- or {{fd_mtime}} -->
 
+**明道，悟道，行道，合乎道**
+
+**Never forget the connection to the truth of life.**
+
+
 # Data, Business and Life
 
 \toc
