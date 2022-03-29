@@ -10,7 +10,7 @@ Last modified: {{fd_mtime_raw}}
 
 **明道，悟道，行道，合乎道**
 
-**Never forget the connection to the truth of life.**
+**Never forget the connection to the truth of life, and the energy will never disappoint you and the world**
 
 
 # Data, Business and Life
