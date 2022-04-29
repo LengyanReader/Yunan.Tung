@@ -19,7 +19,7 @@ Last modified: {{fd_mtime_raw}}
 
 ## 【A Flag】A Project on Mathematcal View of Data Science(2022-04-29)
 
-As a mathematical man and dataman, I have some experieneces, trainings and abilities in both academic study and work practice. In the area of data science, many wonderful applications have impacted the world so much, and in recent years, there arise some problems due to lacking sufficient support in theory. Any authentic successuful work is built on the combination of theory and practice. For data science, an pillar is, no doubt, mathematics, and in fact, most needed theories are just there, it needs time to arrange and good presentation for understanding.
+As a mathematical man and dataman, I have some experieneces, trainings and abilities in both academic study and work practice. In the area of data science, many wonderful applications have impacted the world so much, and in recent years, there arise some problems due to lacking sufficient support in theory. Any authentic successuful work is built on the combination of theory and practice. For data science, a pillar is, no doubt, mathematics, and in fact, most needed theories are just there, it needs time to arrange and good presentation for understanding.
 
 ~~~
 <div class="row">
