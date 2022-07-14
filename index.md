@@ -17,9 +17,38 @@ Last modified: {{fd_mtime_raw}}
 
 \toc
 
+## A Simple Graduation and A Concise Retrospect of the Recent 10 years (2022-07-14)
+
+I’ve finished my master's project in the program of statistics and machine learning, at Linkoping University (in Sweden) and received my diploma. To be honest, it is not worth a mention, since there are many more significant and valuable things in the real world in the age of change.
+
+~~~
+<div class="row">
+  <div class="container">
+      <p>
+   
+     </p>
+    <img class="right" src="/img/liu_grad.jpg">
+
+    
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
+
+
+There is one kind of meaningful working style, that is to utilize proper methods with broad perspectives to study the phenomena or solve the problems around us in daily life and to make the public really feel some reference significance or actual improvements for their lives.  When dealing with concrete topics in real life, based on the accumulated information from domain knowledge, inspired by vivid and intuitive human behaviors, empowered by the combined methods in mathematics, computation, and engineering, there will never lack valuable achievements. 
+
+I’ve worked in data science for nearly 10 years, and I am not a young man's age already.   However, surprising to me, I’ve not become bored with mathematics and engineering, but with increasing curiosity and ability, and I work hard to use these methods to study and solve the problems in daily life.  Furthermore, through experiencing many cases of inappropriate course design and teaching, which caused many troubles in learning, I’ve felt an impulse to become a teacher good at teaching and helping students in learning, and I believe good teaching and good research can benefit each other if seeing the two as one.  More importantly, I hope to do something to make research work and practical work more compatible and reciprocal.  In the age of change, many old structures need to be adjusted and integrated into new ways, and I tend to rhythmically explore and study new methods based on the reasonable cores of old ones.      
+My undergraduate major is in mathematics and statistics (2006-2010). Since the university I was in has a good atmosphere for the study of media and communication, both my interdisciplinary perspective and interest in the combination of quantitative and qualitative methods to study phenomena were formed then. When working as a data man(2011-2020), I extensively learned and applied various modeling methods to deal with the problems of information propagation, such as public opinion analysis, online advertising, and interactive marketing, there involve lots of analysis and experiments on users behavior and mentality, from which I uncovered quite a few business insights and I’ve also become a data scientist competent in discovery, visualization, analysis, modeling, programming, and decision making in terms of providing practical solutions on concrete problems. In the recent master’s program (2020.8-2022.8), based on the courses provided, I did sufficient investigations on the logical and mathematical foundations and the applications of important modeling methods in data science, and once again I’ve rebuilt my knowledge system in a better level. In fact, the progress of lifetime learning never stops, and it has become part of me.
+
+In the just finished master's program, I was not the student only following routines but spending much more time focusing on the more important and interesting things based on but going beyond what had been taught, so I didn’t spend so much time preparing for examinations.  Please don’t think I have no good ability or attitude in learning and studying.  I want to defend using some words:  by spending the time learning the fundamental theories of mathematics, statistics, and data science as well as the corresponding promising applications, and actually, I have attained many more profound and penetrating understandings and skills in nearly all the courses provided, and these should be what is really needed in real teaching, research work and practice; compared with making authentic progress, I chose to not focus on improving grades.  So, life is colorful and complex, isn’t it?      
+
+Through the learning, thinking, and practice of these years,  apart from having some professional scientific and technological skills(e.g., I am skilled in logical analysis, experiment design, mathematical modeling, programming, teasing out literature, and so forth), I’ve gradually become good at balancing different factors, coordinating various relations, and allocating all kinds of possible resources in order to achieve a good work effect in an efficient and meaningful way. Many data science works are easy to start, but may not be quite easy to generate insightful conclusions for interpretation or workable suggestions for practice. I know the challenges ahead, such as work pressures, systematic issues, and a variety of uncertainties, but these are unlikely to be more difficult to be solved than the other problems in real life, and I’ve been well prepared for that. I have a simple and effective belief: when proceeding with a task, once every step is done in a wise way, even if the original objective may not be completely obtained due to some uncontrollable reasons, an equally valuable result can still be attained at least.
+
+
 ## 【A Flag】A Project on Mathematcal View of Data Science(2022-04-29)
 
-As a mathematical man and dataman, I have some experieneces, trainings and abilities in both academic study and work practice. In the area of data science, many wonderful applications have impacted the world so much, and in recent years, there arise some problems due to lacking sufficient support in theory. Any authentic successuful work is built on the combination of theory and practice. For data science, a pillar is, no doubt, mathematics, and in fact, most needed theories are just there, it needs time to arrange and good presentation for understanding.
+As a mathematical man and dataman, I have some experieneces, trainings and abilities in both academic study and work practice. In the area of data science, many wonderful applications have impacted the world so much, and in recent years, there arise some problems due to lacking sufficient support in theory. Any authentic successuful work is built on the combination of theory and practice. For data science, a pillar is, no doubt, mathematics, and in fact, most needed theories are just there, it needs time to arrange and good presentations for understanding.
 
 ~~~
 <div class="row">
