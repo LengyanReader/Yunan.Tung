@@ -18,6 +18,39 @@ Last modified: {{fd_mtime_raw}}
 \toc
 
 
+
+## Road and Roads(2022-08-11)
+
+Walking in the morning, the breeze of late summer is cool and refreshing like always. Tao Te Ching（道德经）is really the classical book worth reading always, [https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf)
+
+~~~
+<div class="row">
+  <div class="container">
+      <p>
+    
+     </p>
+    <img class="right" src="/img/road.jpg">
+
+    
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
+
+~~~
+<div class="row">
+  <div class="container">
+      <p>
+    
+     </p>
+    <img class="right" src="/img/taiji.jpg">
+
+    
+    <div style="clear: both"></div>      
+  </div>
+</div>
+~~~
+
 ## I am Looking for Ph.D. Positions: A Nerd Thinking What is Right in Learning (2022-07-26)
 
 I am not an quite excellent person but try to do the right thing,  with a humble and active mindset and proper courage, especially when in a non-ideal condition. The master’s program I just finished, existed lots of issues in course quality. Almost all the courses by themselves are indeed worth learning, but actually, the teaching of theory didn’t touch the cores of principle and the practice of the courses was far from real applications, and examinations were full of rote memorization, which is from my own feeling, with my criticism but no complaint. Only following the routine of the master’s program can’t make essential progress for me. So, based on the courses provided, I have to put most of my focus on learning the mathematical foundations(especially in algebra, geometry, and topology) of machine learning, calmly, earnestly, and patiently, for this reason, I’ve formed a kind of essential and systematic understanding of machine learning and the like as well as the increasing research competence and passion(the price is bad study results), and this is just the most important achievement that is formless for me during the two years. The study of machine learning mathematics is worth doing,  naturally, I am willing to find a job like this.
